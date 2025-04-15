@@ -3,8 +3,6 @@ export default {
       "@tailwindcss/postcss": {},
       
     },
-    plugins: [
-      require('@tailwindcss/line-clamp'),
-    ],
+  
     
   }
